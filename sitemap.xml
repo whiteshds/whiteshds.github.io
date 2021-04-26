@@ -2,28 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.ccknbc.cc/posts/666-test/</loc>
-    
-    <lastmod>2021-04-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ccknbc.cc/posts/quack/</loc>
-    
-    <lastmod>2021-04-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ccknbc.cc/posts/777/</loc>
-    
-    <lastmod>2021-04-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.ccknbc.cc/sub/</loc>
+    <loc>https://blog.ccknbc.cc/posts/linguistic-test/</loc>
     
     <lastmod>2021-04-26</lastmod>
     
@@ -59,6 +38,13 @@
   
   <url>
     <loc>https://blog.ccknbc.cc/music/</loc>
+    
+    <lastmod>2021-04-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.ccknbc.cc/sub/</loc>
     
     <lastmod>2021-04-26</lastmod>
     

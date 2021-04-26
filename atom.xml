@@ -6,7 +6,7 @@
   <link href="https://blog.ccknbc.cc/atom.xml" rel="self"/>
   
   <link href="https://blog.ccknbc.cc/"/>
-  <updated>2021-04-26T15:20:05.872Z</updated>
+  <updated>2021-04-26T15:41:36.035Z</updated>
   <id>https://blog.ccknbc.cc/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>666测试</title>
-    <link href="https://blog.ccknbc.cc/posts/666-test/"/>
-    <id>https://blog.ccknbc.cc/posts/666-test/</id>
-    <published>2021-04-26T14:32:58.000Z</published>
-    <updated>2021-04-26T15:20:05.872Z</updated>
+    <title>语雀测试</title>
+    <link href="https://blog.ccknbc.cc/posts/linguistic-test/"/>
+    <id>https://blog.ccknbc.cc/posts/linguistic-test/</id>
+    <published>2021-04-26T15:40:56.000Z</published>
+    <updated>2021-04-26T15:41:36.035Z</updated>
     
-    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    <content type="html"><![CDATA[<p>成功了吗</p>]]></content>
     
     
       
