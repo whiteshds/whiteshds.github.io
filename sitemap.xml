@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://whiteshds.ml/posts/linguistic-test/</loc>
-    
-    <lastmod>2021-04-27</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://whiteshds.ml/posts/dont-share/</loc>
     
     <lastmod>2021-04-27</lastmod>
@@ -16,7 +9,21 @@
   </url>
   
   <url>
+    <loc>https://whiteshds.ml/posts/linguistic-test/</loc>
+    
+    <lastmod>2021-04-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://whiteshds.ml/posts/yuyue-client-ios-test/</loc>
+    
+    <lastmod>2021-04-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://whiteshds.ml/posts/ios-customer-service-test/</loc>
     
     <lastmod>2021-04-27</lastmod>
     
@@ -37,7 +44,7 @@
   </url>
   
   <url>
-    <loc>https://whiteshds.ml/music/</loc>
+    <loc>https://whiteshds.ml/sub/</loc>
     
     <lastmod>2021-04-27</lastmod>
     
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://whiteshds.ml/sub/</loc>
+    <loc>https://whiteshds.ml/music/</loc>
     
     <lastmod>2021-04-27</lastmod>
     
