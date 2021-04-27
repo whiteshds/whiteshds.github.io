@@ -3,25 +3,25 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CC的部落格</title>
-    <link>https://blog.ccknbc.cc/</link>
+    <title>网络杀手</title>
+    <link>https://whiteshds.ml/</link>
     
     <image>
       <url>https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/logo.png</url>
-      <title>CC的部落格</title>
-      <link>https://blog.ccknbc.cc/</link>
+      <title>网络杀手</title>
+      <link>https://whiteshds.ml/</link>
     </image>
     
-    <atom:link href="https://blog.ccknbc.cc/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://whiteshds.ml/rss.xml" rel="self" type="application/rss+xml"/>
     
-    <description>CC的部落格，CC康纳百川的小窝，与你分享二三事</description>
-    <pubDate>Mon, 26 Apr 2021 16:03:36 GMT</pubDate>
+    <description>网络杀手</description>
+    <pubDate>Tue, 27 Apr 2021 03:47:57 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>语雀测试</title>
-      <link>https://blog.ccknbc.cc/posts/linguistic-test/</link>
-      <guid>https://blog.ccknbc.cc/posts/linguistic-test/</guid>
+      <link>https://whiteshds.ml/posts/linguistic-test/</link>
+      <guid>https://whiteshds.ml/posts/linguistic-test/</guid>
       <pubDate>Mon, 26 Apr 2021 15:40:56 GMT</pubDate>
       
         
@@ -39,7 +39,7 @@
       
       
       
-      <comments>https://blog.ccknbc.cc/posts/linguistic-test/#disqus_thread</comments>
+      <comments>https://whiteshds.ml/posts/linguistic-test/#disqus_thread</comments>
       
     </item>
     
